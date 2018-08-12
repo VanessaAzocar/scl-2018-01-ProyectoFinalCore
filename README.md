@@ -20,7 +20,7 @@ Esta aplicación tiene como objetivo principal realizar de manera rápida y senc
 
 Para comenzar con el proceso de Diseño y definir nuestro producto mínimo viable, realizamos un User Story Mapping, en donde detectamos las principales acciones que debían considerarse para generar la app.
 
-![alt text](https://github.com/VanessaAzocar/scl-2018-01-ProyectoFinalCore/blob/master/docs/readme/user%20story%20mapping.jpg)
+![alt text](https://github.com/VanessaAzocar/scl-2018-01-ProyectoFinalCore/blob/master/docs/readme/User%20story%20mapping.png)
 
 ## Entrevistas y Observación en terreno
 
@@ -33,7 +33,7 @@ Por otro lado entrevistamos a Pilar López, Administradora del IF, en donde pudi
 
 Si quieres escuchar las entrevistas haz click en el siguiente link  [aquí](https://drive.google.com/open?id=1z2LvZOBc-ML2WTWoDIy-x3CYHbehNPaE)
 
-![alt text](https://github.com/VanessaAzocar/scl-2018-01-ProyectoFinalCore/blob/master/docs/readme/Obsevacion%20en%20terreno.jpg)
+![alt text](https://github.com/VanessaAzocar/scl-2018-01-ProyectoFinalCore/blob/master/docs/readme/Observaci%C3%B3n%20en%20terreno.png)
 
 
 ## Estudio y viabilidad del proyecto
